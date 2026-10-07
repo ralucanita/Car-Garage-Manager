@@ -46,10 +46,6 @@ The application uses several basic Object-Oriented Programming concepts:
 
 ## Console Menu
 When the application starts, the following menu is displayed:
-
-==============================
-      CAR GARAGE MANAGER
-==============================
 1. Show all cars
 2. Add a car
 3. Search car by brand
